@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98dc8d40-386d-4563-a0e6-3f74b0b5e851)# Hi there, I'm KoKoNutKing 👋
+# Hi there, I'm KoKoNutKing 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and motivated self-learner with a passion for programming. I 
 
