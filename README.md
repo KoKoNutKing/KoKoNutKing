@@ -1,6 +1,6 @@
 # Hi there, I'm KoKoNutKing 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic and motivated self-learner with a passion for programming. I 
+Welcome to my GitHub profile! I'm an enthusiastic and motivated self-learner with a passion for programming.
 
 ## About Me
 - 🌱 I’m currently learning Python, C++, data science and Arduino.
